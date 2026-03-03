@@ -1,53 +1,68 @@
-# Pedro 👋
+# Pedro 👋  
+📍 Brazil | 🤖 Agent-native builder | 🚀 Ex-Fintech Founder  
 
-Building agent-native workflows for product development.
+Python TypeScript Node.js LLMs Agents APIs Workflow Systems
 
-Currently focused on turning frontier model capabilities into executable systems.
+Building agent-based systems that turn product intent into executable workflows.
 
 ---
 
-## Current Project
+## Current Focus
+
+🧠 Agent-native company design  
+⚙️ Workflow decomposition → automation surfaces  
+🔁 Multi-step reasoning + execution harnesses  
+📊 Cost modeling for long-horizon agents  
+🏗️ Designing lean orgs built around agents  
+
+---
+
+## Active Project
 
 ### PM-Copilot
 
-A working prototype that translates product intent into structured AI workflows.
+Agent system for product managers.
 
-Core components:
-- Role → workflow decomposition  
-- Tool orchestration (LLMs, APIs, SaaS)  
-- Multi-step reasoning loops  
-- Execution harness design  
+Turns:
+Intent → Structured plan → Tool orchestration → Execution loop
 
-Status:
-- Active prototype  
-- Iterating on architecture and reliability  
-- Exploring real-world use cases  
+Core work:
+- Role → workflow breakdown  
+- Multi-agent orchestration  
+- Reliability testing under long contexts  
+- Iterating on harness architecture  
+
+Status: active prototype, architecture evolving.
 
 ---
 
-## Focus Areas
+## Experiments & Systems
 
-- Agent-based workflow design  
-- Long-horizon reasoning reliability  
-- Automation potential across company roles  
-- Cost structures of agent execution  
-- Designing companies with agents as core operators  
+🔬 Agent harness variants for long-horizon tasks  
+📉 Token + cost modeling for CUA-style execution  
+🧩 Role automation mapping (PM, ops, research)  
+🧪 Stress-testing where agent workflows fail  
 
 ---
 
 ## Background
 
-- Founder. Built and shipped a fintech product reaching 500 users in 6 months.  
-- Programming since high school.  
-- Deep focus on AI systems since the release of ChatGPT.  
+🚀 Founder – Open finance fintech  
+→ 500 users in 6 months  
+→ Shut down due to capital + team constraints  
+
+💻 Programming since high school  
+🤖 Deep in AI systems since 2023  
 
 ---
 
-## What I'm Doing Now
+## Direction
 
-- Running architecture experiments  
-- Stress-testing agent workflows  
-- Studying where agents actually break  
-- Refining execution loops  
+Working toward:
 
-This profile will evolve as artifacts, users, and findings accumulate.
+Smaller teams  
+More leverage  
+Agents as core operators  
+Execution speed as advantage  
+
+This README will evolve with shipped artifacts and public findings.
