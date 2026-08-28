@@ -3,7 +3,7 @@
 **AI Deployment · AI Strategy**
 
 Brazil · [LinkedIn](https://linkedin.com/in/pedromellob) ·
-[pedro_mello@icloud.com](mailto:pedro_mello@icloud.com)
+[pedro_mello@icloud.com](mailto:pedromellob7@gmail.com)
 
 I work on process and operational bottleneck discovery, define AI
 implementation strategy with product teams, and own the P&L for B2B operations.
