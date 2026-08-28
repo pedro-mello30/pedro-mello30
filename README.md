@@ -36,8 +36,7 @@ I am measured by business outcomes and customer satisfaction (NPS).
 
 ### Professional
 
-- AI Deployment (2024-present): planning and delivering Agentic AI systems for
-  operational use.
+- AI Deployment (2024-present): Planning and delivering AI-first products.
 - Co-founder & CEO: Me Nota (2022-2023).
 - Project Manager & Software Engineer: 70E7 (2016-2021).
 
